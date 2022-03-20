@@ -19,3 +19,6 @@
     
 Задача 5.
     [Приложение 5](https://github.com/katerina-Evdokimova/NIR/blob/main/Practical_work_5.py).
+    
+    
+Работа оценена на _Отлично_.
